@@ -1,0 +1,33 @@
+.example-button-row {
+  margin-top: 200px;
+  margin-left: 400px;
+}
+
+.foo {
+  width: 150px;
+}
+
+.mat-dialog-content,
+.mat-dialog-title {
+  padding-left: 24px;
+  padding-right: 24px;
+}
+
+.mat-dialog-content {
+  display: block;
+  max-height: 65vh;
+  overflow: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+p {
+  display: block;
+  margin-block-start: 0em;
+  margin-block-end: 0em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+
+img {
+  width: 50px;
+}

@@ -1,0 +1,13 @@
+.mde-popover-panel {
+  display: flex;
+  flex-direction: column;
+  max-height: calc(100vh + 48px);
+}
+
+.mde-popover-ripple {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
